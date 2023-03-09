@@ -1,0 +1,21 @@
+
+.card {
+    background-color: rgba(168, 7, 7, 0.966); 
+    width: 350px; 
+    padding: 20px; 
+    border: 2px solid black; 
+    border-radius: 8px;
+    font-family: monospace;
+}
+
+.avatar {
+    background-color: rgb(82, 82, 82); 
+    width:50px; 
+    height: 50px; 
+    border-radius: 50px;
+}
+
+.destaque {     
+    color:whitesmoke
+}
+
